@@ -5,3 +5,4 @@ https://github.com/2203A51542/DAA/blob/main/week2%201ques.c
 https://github.com/2203A51542/DAA/blob/main/week2%202ques.c
 https://github.com/2203A51542/DAA/blob/main/week2%203%20ques.c
 https://github.com/2203A51542/DAA/blob/main/BUBBLE%20SORT
+https://github.com/2203A51542/DAA/blob/main/binary%20search.c
